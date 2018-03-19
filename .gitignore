@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 .sass-cache
 .node_modules
+=======
+>>>>>>> task-5
 # Logs
 logs
 *.log
@@ -60,4 +63,8 @@ typings/
 .env
 
 # next.js build output
+<<<<<<< HEAD
 .next
+=======
+.next
+>>>>>>> task-5

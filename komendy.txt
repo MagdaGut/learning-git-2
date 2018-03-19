@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 autoprefixer-cli -o style.prefixed.css style.css
 
 node_modules/.bin/nu-html-checker *.html
+=======
+node_modules/.bin/nu-html-checker *.html
+autoprefixer-cli -o style.prefixed.css style.css
+>>>>>>> task-5
